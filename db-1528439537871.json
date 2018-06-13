@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Agung",
+      "lastname": "Jati",
+      "username": "agungjati94@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "firstname": "Handaru",
+      "lastname": "Soerja",
+      "username": "jati@gmail.com",
+      "password": "password"
+    },
+    {
+      "firstname": "Agung lama",
+      "lastname": "Jati",
+      "username": "uer@gmail.com",
+      "password": "password",
+      "id": "xs43QQY"
+    }
+  ]
+}

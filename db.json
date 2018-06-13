@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Agung",
+      "lastname": "Jati",
+      "username": "agungjati94@gmail.com",
+      "password": "password"
+    },
+    {
+      "firstname": "agung",
+      "lastname": "jati",
+      "username": "lightnooto@asd",
+      "password": "agung",
+      "saldo": "10000000",
+      "id": "gQr2P5E"
+    },
+    {
+      "firstname": "jati",
+      "lastname": "agung",
+      "username": "agung@jati",
+      "password": "password",
+      "saldo": "10000000",
+      "id": "oz64CHd"
+    },
+    {
+      "firstname": "agung",
+      "lastname": "agung",
+      "username": "agung@jati",
+      "password": "password",
+      "saldo": "10000000",
+      "id": "hIzgN~m"
+    },
+    {
+      "firstname": "asd",
+      "lastname": "asd",
+      "username": "agung@jati",
+      "password": "password",
+      "saldo": "10000000",
+      "id": "6Lq6ySJ"
+    },
+    {
+      "firstname": "asdsa",
+      "lastname": "asdas",
+      "username": "asds@asdasd",
+      "password": "dass",
+      "saldo": "10000000",
+      "id": "~5P0iRs"
+    },
+    {
+      "firstname": "agung",
+      "lastname": "asdsa",
+      "username": "agung@jati",
+      "password": "password",
+      "saldo": "10000000",
+      "id": "g2Y~h2B"
+    }
+  ],
+  "transaksi": [
+    {
+      "id": "1",
+      "username": "agungjati94@gmail.com",
+      "currency": "BTC",
+      "hargaCrypto": "10000000",
+      "banyakRupiah": "500000",
+      "banyakCrypto": "0.5",
+      "jual": false,
+      "waktu": "2018-02-10"
+    },
+    {
+      "id": "1",
+      "username": "agungjati94@gmail.com",
+      "currency": "RP",
+      "hargaCrypto": "10000000",
+      "banyakRupiah": "500000",
+      "banyakCrypto": "0.5",
+      "jual": true,
+      "waktu": "2018-02-10"
+    }
+  ],
+  "saldo": [
+    {
+      "id": "100",
+      "username": "agungjati94@gmail.com",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        },
+        {
+          "XRP": "10"
+        },
+        {
+          "BTC": "0.1"
+        },
+        {
+          "BCH": "100"
+        },
+        {
+          "ETH": "100"
+        },
+        {
+          "LTC": "100"
+        }
+      ]
+    },
+    {
+      "username": "agungjati94@gmail.com",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        }
+      ],
+      "id": "J6kSzeg"
+    },
+    {
+      "username": "agungjati94@gmail.com",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        }
+      ],
+      "id": "JJKNqN3"
+    },
+    {
+      "username": "agungjati94@gmail.com",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        }
+      ],
+      "id": "ZPSB4sS"
+    },
+    {
+      "username": "agung@jati",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        }
+      ],
+      "id": "ROkh8~e"
+    },
+    {
+      "username": "asds@asdasd",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        }
+      ],
+      "id": "mwu0dLA"
+    },
+    {
+      "username": "agung@jati",
+      "saldo": [
+        {
+          "IDR": "10000000"
+        }
+      ],
+      "id": "qPByKgx"
+    }
+  ]
+}

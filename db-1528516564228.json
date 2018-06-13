@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Agung",
+      "lastname": "Jati",
+      "username": "agungjati94@gmail.com",
+      "password": "password",
+      "saldo": "10000000"
+    }
+  ]
+}

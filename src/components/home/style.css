@@ -1,0 +1,20 @@
+body {
+    padding-top: 56px;
+    background-color: #efefef;
+}
+input.form-control {
+    border: 0;
+    border-radius: 0;
+    border-bottom: 2px solid #cecccc;
+}
+input.form-control:focus {
+    box-shadow: 0 0;
+}
+.link { cursor: pointer;}
+.border-red {
+    border-color: red !important;
+}
+footer{
+    border-top: 1px solid #ddd;
+    box-shadow: 0 -2px 5px 0 #ddd;
+}
